@@ -4,6 +4,7 @@ This project defines the various material necessary to understand, design, and b
 
 Well, a Trebuchet. Huh. Yeah, that seems about right.
 
+
 ## Description
 
 It's a trebuchet, innit? But seriously:
@@ -17,9 +18,11 @@ need.
 
 For further documentation please refer to individual subprojects as necessary.
 
+
 ## NOTE
 
 Hi Ez :>
+
 
 ## Building
 
@@ -31,7 +34,8 @@ For the design part, we need to ensure that everything actually fits together, d
 fall over, fit's in whatever system it's designed to operate in, and... Well, it would be
 nice if it looked like a trebuchet, wouldn't it?
 
-### S.1 WSL2
+
+### S.1
 
 To build the science project you need access to a distribution of ubuntu linux. For 
 windows users, that means using WSL2. The setup for that can be pretty technical but is
@@ -39,6 +43,7 @@ also [extensively documented](https://learn.microsoft.com/en-us/windows/wsl/inst
 
 The process takes a while, but is really worth it. Any questions can be redirected to
 Alexander.
+
 
 ### S.2
 
@@ -72,6 +77,7 @@ $ source ./venv/bin/activate
 
 And you should see the terminal now has a `(venv)` segment appended to the far left.
 
+
 ### S.3
 
 Type the following into the terminal to install all the dependencies for your project:
@@ -83,6 +89,7 @@ $ pip install -r requirments.txt
 Don't worry about what's in the file, just trust me :3
 
 Congratulations! You can now start working on the science subproject.
+
 
 ### D.1
 
